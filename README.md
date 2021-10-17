@@ -2,6 +2,7 @@
 Please see this link:https://d527team1.pythonanywhere.com/
 
 --MySQL exmaple 
-![](MySQL-exmaple.png)
+![](MySQL-example.png)
 
 --Redshift example 
+![](redshift-example.png)

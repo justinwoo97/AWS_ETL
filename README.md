@@ -2,6 +2,6 @@
 Please see this link:https://d527team1.pythonanywhere.com/
 
 --MySQL exmaple 
-![Screenshot](MySQL-exmaple.png)
+![plot](MySQL-exmaple.png)
 
 --Redshift example 
